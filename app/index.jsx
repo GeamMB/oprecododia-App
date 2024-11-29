@@ -87,6 +87,6 @@ const style = StyleSheet.create({
     borderColor: "black",
     borderStyle: "solid",
     borderWidth: 1,
-    marginLeft: 15,
+    marginLeft:15,
   },
 });
